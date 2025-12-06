@@ -1,4 +1,4 @@
-# Reviews Uploader — Automating Reviews Posting to a REST API
+# Feedback Reviews Uploader — Automating Feedback Reviews Posting using a REST API
 
 **Objective**  
 A small automation project that reads customer review text files from disk, normalizes them into JSON, and posts them to a running web service. The project was built to practice working with REST APIs, automating repetitive tasks, and visualizing the results via a simple HTML table for easy review.
