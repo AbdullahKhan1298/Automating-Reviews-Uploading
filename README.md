@@ -17,14 +17,19 @@ I wanted a compact, real-world exercise to practice REST API interactions and au
 - `.gitignore` — ignores virtual env and cache files
 
 
-**Folder Structure**
+
+## Folder Structure
+
 <img width="321" height="565" alt="folder_structure" src="https://github.com/user-attachments/assets/375c03a0-a63f-44b3-92e9-14cce96ec76c" />
 
 
-**Getting Requests from Server**
+## Getting Response from Server
+
 <img width="1544" height="983" alt="getting-server-requests" src="https://github.com/user-attachments/assets/54577b4c-38ec-4cfe-9e1d-7e208ce8d3f9" />
 
-**Output**
+
+## Output
+
 <img width="1914" height="631" alt="feedback_webpage" src="https://github.com/user-attachments/assets/9466e7c7-766d-49d1-afad-1819988fb1e5" />
 
 
