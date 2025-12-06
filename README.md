@@ -6,7 +6,7 @@ A small automation project that reads customer review text files from disk, norm
 **Why I built this**  
 I wanted a compact, real-world exercise to practice REST API interactions and automation: instead of uploading reviews one-by-one, this script reads a folder of text files, converts their contents to structured JSON, and uploads them automatically. The project also includes a minimal web UI (an HTML table) to display the stored reviews.
 
----
+
 
 ## What’s included
 - `src/uploader.py` — main uploader script (reads `data/feedback/`, posts JSON to the server)
