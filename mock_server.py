@@ -23,7 +23,7 @@ def create_feedback():
 
 
 
-# NEW: HTML Template for GETTING the feedbacks in a simple nice format
+# HTML Template for GETTING the feedbacks in a simple nice format
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html>
